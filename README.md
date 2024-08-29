@@ -76,7 +76,7 @@
   
   </p>
 
-[![Yugeshini's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yugeshini16&theme=tokyonight)](https://git.io/praveenscience)
+[[Yugeshini's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yugeshini16&theme=tokyonight)]
 
 | ![Yugeshini's github stats](https://github-readme-stats.vercel.app/api?username=Yugeshini16&show_icons=true&theme=tokyonight) | ![Yugeshini GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yugeshini16&theme=tokyonight) |
 | --- | --- |
